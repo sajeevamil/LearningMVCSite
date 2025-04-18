@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "slick-carousel@1.8.1",
+      "destination": "wwwroot/lib/slick-carousel/"
+    },
+    {
+      "library": "font-awesome@6.7.2",
+      "destination": "wwwroot/lib/font-awesome/"
+    },
+    {
+      "library": "simple-line-icons@2.5.5",
+      "destination": "wwwroot/lib/simple-line-icons/"
+    }
+  ]
+}
